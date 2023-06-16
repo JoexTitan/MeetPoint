@@ -5,7 +5,7 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier)
 [![Profile Link](https://img.shields.io/badge/Profile-Link-blue.svg)](https://github.com/JoexTitan)
 
-A Streaming Service Built With Developers in Mind! App is Live @ https://dev-sync-plus.vercel.app
+A Streaming Service Built With Developers in Mind! App is Live @ [devsync.vercel.app](https://devsync.vercel.app)
 
 DevSync+ is powered by WebRTC and uses Agora.io framework to delivery latency free streamlined videos.
 
@@ -39,6 +39,6 @@ Amplify your coding genius by effortlessly sharing your screen with fellow devel
 
 🔒 Single Use Disposable Chat Rooms: Create secure and private chat rooms for focused collaborations. Each room is exclusively dedicated to your project, providing a safe space to brainstorm and innovate.
 
-# App is Live: https://dev-sync-plus.vercel.app
+# App is Live: https://devsync.vercel.app
 
 <img src='./img/image1.jpeg'>
