@@ -13,6 +13,8 @@ DevSync+ is powered by WebRTC and uses Agora.io framework to delivery latency fr
 
 Amplify your coding genius by effortlessly sharing your screen with fellow developers. Show, teach, and collaborate like never before!
 
+# [Demo #1 ](https://www.youtube.com/embed/iXtl_8JwAiE)
+
 <a href="https://www.youtube.com/embed/iXtl_8JwAiE">
   <img src="./img/Game01.JPG" alt="Video 1" style="width: 900px;">
 </a>
@@ -22,6 +24,8 @@ Amplify your coding genius by effortlessly sharing your screen with fellow devel
 🔤 Live Captions: Break language barriers and ensure inclusive communication with real-time live captions. Every line of code becomes crystal clear for all participants.
 
 💬 Text Chat: Connect, discuss, and exchange ideas with a vibrant community of developers through our interactive text chat. Share code snippets, ask questions, and build lasting connections.
+
+# [Demo #2 ](https://www.youtube.com/embed/Q8IJFE1baOw)
 
 <a href="https://www.youtube.com/embed/Q8IJFE1baOw">
   <img src="./img/Game02.JPG" alt="Video 2" style="width: 900px;">
@@ -34,5 +38,7 @@ Amplify your coding genius by effortlessly sharing your screen with fellow devel
 ⚡️ Lowest Latency: Experience unparalleled real-time interaction with direct peer-to-peer connections. Our platform ensures the lowest latency possible, enabling instant collaboration and lightning-fast feedback.
 
 🔒 Single Use Disposable Chat Rooms: Create secure and private chat rooms for focused collaborations. Each room is exclusively dedicated to your project, providing a safe space to brainstorm and innovate.
+
+# App is Live: https://dev-sync-plus.vercel.app
 
 <img src='./img/image1.jpeg'>
