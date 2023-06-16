@@ -13,9 +13,14 @@ DevSync+ is powered by WebRTC and uses Agora.io framework to delivery latency fr
 
 Amplify your coding genius by effortlessly sharing your screen with fellow developers. Show, teach, and collaborate like never before!
 
-# [Demo #1 ](https://www.youtube.com/embed/iXtl_8JwAiE)
+# [Demo #1 ](https://www.dropbox.com/scl/fi/v2x795r23bilgy2og0q6q/firstDemo.mp4?dl=0&rlkey=v4zx91l0rlcodp6lkog212ddp)
+<!-- # [Demo #1 ](https://www.youtube.com/embed/iXtl_8JwAiE)
 
 <a href="https://www.youtube.com/embed/iXtl_8JwAiE">
+  <img src="./img/Game01.JPG" alt="Video 1" style="width: 900px;">
+</a>
+ -->
+<a href="https://www.dropbox.com/scl/fi/v2x795r23bilgy2og0q6q/firstDemo.mp4?dl=0&rlkey=v4zx91l0rlcodp6lkog212ddp">
   <img src="./img/Game01.JPG" alt="Video 1" style="width: 900px;">
 </a>
 
@@ -25,9 +30,14 @@ Amplify your coding genius by effortlessly sharing your screen with fellow devel
 
 💬 Text Chat: Connect, discuss, and exchange ideas with a vibrant community of developers through our interactive text chat. Share code snippets, ask questions, and build lasting connections.
 
-# [Demo #2 ](https://www.youtube.com/embed/Q8IJFE1baOw)
+# [Demo #2 ](https://www.dropbox.com/scl/fi/oo3kt4zzd0uwspvroi9ns/secondDemo.mp4?dl=0&rlkey=fj0p3iiljm2bce2avv5ceunm7)
+<!-- # [Demo #2 ](https://www.youtube.com/embed/Q8IJFE1baOw) 
 
 <a href="https://www.youtube.com/embed/Q8IJFE1baOw">
+  <img src="./img/Game02.JPG" alt="Video 2" style="width: 900px;">
+</a>
+-->
+<a href="https://www.dropbox.com/scl/fi/oo3kt4zzd0uwspvroi9ns/secondDemo.mp4?dl=0&rlkey=fj0p3iiljm2bce2avv5ceunm7">
   <img src="./img/Game02.JPG" alt="Video 2" style="width: 900px;">
 </a>
 
