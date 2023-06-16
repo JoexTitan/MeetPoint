@@ -13,9 +13,9 @@ DevSync+ is powered by WebRTC and uses Agora.io framework to delivery latency fr
 
 Amplify your coding genius by effortlessly sharing your screen with fellow developers. Show, teach, and collaborate like never before!
 
-[![Video 1](https://img.youtube.com/vi/iXtl_8JwAiE/0.jpg)](https://www.youtube.com/embed/iXtl_8JwAiE)
-
-<!-- <video controls muted> <source src="./img/firstDemo.mp4" type="video/mp4">Your browser does not support the video tag.</video> -->
+<a href="https://www.youtube.com/embed/iXtl_8JwAiE">
+  <img src="./img/Game01.JPG" alt="Video 1" style="width: 900px;">
+</a>
 
 🎥 Picture in Picture: Enhance your streaming experience with the magic of Picture in Picture. Multitask seamlessly while watching live coding sessions or engaging in collaborative discussions.
 
@@ -23,9 +23,9 @@ Amplify your coding genius by effortlessly sharing your screen with fellow devel
 
 💬 Text Chat: Connect, discuss, and exchange ideas with a vibrant community of developers through our interactive text chat. Share code snippets, ask questions, and build lasting connections.
 
-[![Video 2](https://img.youtube.com/vi/Q8IJFE1baOw/0.jpg)](https://www.youtube.com/embed/Q8IJFE1baOw)
-
-<!-- <video controls muted> <source src="./img/secondDemo.mp4" type="video/mp4">Your browser does not support the video tag.</video> -->
+<a href="https://www.youtube.com/embed/Q8IJFE1baOw">
+  <img src="./img/Game02.JPG" alt="Video 2" style="width: 900px;">
+</a>
 
 📺 Auto-Scaling Video Quality: Enjoy flawless streaming with our intelligent auto-scaling video quality. The platform adapts to your network conditions, delivering the highest visual fidelity at all times.
 
